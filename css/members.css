@@ -1,0 +1,98 @@
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.box {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    float: none;
+    margin-bottom: 10px;
+    margin-left: 25%;
+ 
+
+}
+
+.small {
+    height: 20%;
+    padding: 0px 0px;
+}
+
+.box-details{
+    font-weight: bold;
+}
+
+form {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.account{
+    float:right;
+}
+.email{
+    margin-left: 10px;
+}
+
+
+
+.box3{
+    margin:5px;
+    width:50%;
+    margin-left: 25%;
+    border: 1px solid #ccc;
+}
+
+.box3 div {
+    padding: 0px;
+}
+
+#red-submit{
+    background-color: #c60000;
+
+    text-align: center;
+}
+a :hover {
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+
+textarea {
+    width: 100%;
+
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
