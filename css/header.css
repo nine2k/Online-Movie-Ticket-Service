@@ -1,0 +1,11 @@
+.contain{
+	float:left;
+	padding-left: 50px;
+}
+
+img{
+	object-fit:cover;
+	width:150px;
+	height: 220px;
+	padding:10px;
+}
